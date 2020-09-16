@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+table{
+	width:260px;			/*幅:260px*/
+}
+
+table,th,td{
+	border:1px solid #bbb;	/*線:1px 実線 色:#bbb 灰色*/
+}
+
+input{
+	border-style:none;		/*線なし*/
+}
+
+.box{
+	width:480px;				//幅:480px
+	border:10px #dddddd solid;	//線:10px 実線 色:灰色
+	margin-bottom:20px;			//下余白:20px
+	text-align:center;			//文字:中央
+}
